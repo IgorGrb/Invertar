@@ -1,4 +1,4 @@
-
+#Izmena
 #Invertar treba da moze da se dopunjuje u formatu [roba, kolicina]
 invertar = [["BRASNO", 5 ], ["SIR", 3 ], ["PARDAJZ SOS", 2 ]]
 
