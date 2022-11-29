@@ -1,3 +1,4 @@
+#Promena
 invertar = [420]
 print("*"*44)
 print("1. Invertar\n2. Izmeni stanje invertara\n3. Recepti\n4. Meni\n5. Izlaz")
